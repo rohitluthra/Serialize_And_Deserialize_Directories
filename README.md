@@ -1,10 +1,3 @@
-# Homework 1 - CSE 320 - Spring 2019
-#### Professor Eugene Stark
-
-### **Due Date: Friday 09/20/2019 @ 11:59pm**
-
-**Read the entire doc before you start**
-
 ## Introduction
 
 In this assignment, you will write a command line utility to serialize
